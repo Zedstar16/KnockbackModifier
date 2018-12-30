@@ -1,0 +1,19 @@
+name: KnockbackModifier
+main: Zedstar16\KnockbackModifier\Main
+version: 1.0.0
+api: 3.5.0
+load: POSTWORLD
+author: Zedstar16
+description: A plugin that allows you to change the amount of knockback players recieve/take in different worlds or globally
+website: https://github.com/Zedstar16/KnockbackModifier
+
+commands:
+ kbset:
+  description: "Set the knockback  modifier"
+  usage: "/kbset <amplifier> [Worldname/global]"
+  permission: kbset
+
+permissions:
+ kbset:
+  default: op
+  description: "Set world knockback"

@@ -1,0 +1,7 @@
+---
+#You can change the level of knockback in specific worlds here
+#If the world you wish to chnage the knockback in is not listed here, either run /kbset 1 global ingame or add it in the config manually
+#The world names are based on the name of the directory they are in
+world: "1"
+
+...
