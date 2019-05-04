@@ -12,3 +12,7 @@ using the command without specifying what world to set the knockback in will cha
 
 This plugin was desgined to allow server owners to customise how much knockback players receive in different worlds. I.e if you had a practice pvp server and you want different worlds to have different levels of knockback
 I hope this plugin helps :)
+
+#TODO
+- Entire plugin rewrite, tf was i thinking when i wrote this
+- option to control knockback motion
